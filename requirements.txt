@@ -12,4 +12,4 @@ bitsandbytes
 jupyter
 wheel
 google-generativeai
-python-dotenv
+python-dotenv==1.0.0
