@@ -31,7 +31,7 @@ def embed_text(pages_and_chunks_over_min_token_len):
         embeddings = embedding_model.encode(
             batch, 
             device=device, 
-            convert_to_numpy=True,  
+            convert_to_tensor=True,  
             show_progress_bar=False 
         )
         
