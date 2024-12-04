@@ -12,3 +12,4 @@ bitsandbytes
 jupyter
 wheel
 google-generativeai
+python-dotenv
